@@ -1,0 +1,13 @@
+Group Members:
+Daniel Kobko - 1090123
+Lance Paje - 0956905
+Bo Li - 0965596
+Muhammad Khan - 1101209
+
+Code Description:
+Our code runs just as intended. We've tested it using the format presented in the assignment description, and
+can say for certain that as long as the program is ran under the assignment assumptions plus the assumptions
+listed below it will run like the pinnacle code of our generation.
+
+Code Assumptions:
+The minimum worker count 1, the minimum size is 1, and finally the configurations must be between 0 and 4 inclusive.
